@@ -1,3 +1,4 @@
+#http://interactivepython.org/runestone/static/pythonds/SortSearch/TheBinarySearch.html
 def bSearch(L, num):
   start_index = 0
   end_index = len(L)-1
